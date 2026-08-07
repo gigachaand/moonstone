@@ -3,6 +3,8 @@ moonstone (IN) boot,twrp, etc stuff
 
 https://mirom.ezbox.idv.tw/en/phone/moonstone/roms-in-stable/
 
+https://fcetool.github.io/
+
 https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MOONSTONE_V14.0.6.0.TMPMIXM_v14-13.zip/download
 
 https://huggingface.co/datasets/offici5l/fcetool/resolve/main/sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MOONSTONE_V14.0.6.0.TMPMIXM_v14-13.zip/download/boot.img
