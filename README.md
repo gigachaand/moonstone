@@ -13,4 +13,6 @@ https://bigota.d.miui.com/V14.0.4.0.TMPINXM/miui_MOONSTONEINGlobal_V14.0.4.0.TMP
 
 https://huggingface.co/datasets/offici5l/fcetool/resolve/main/cdnorg.d.mil/fcetool/resolve/main/cdnorg.d.miui.com/OS1.0.22.0.UMPINXM/miui_MOONSTONEINGlob4.0/boot.img
 
+https://bigota.d.miui.com/OS1.0.22.0.UMPINXM/miui_MOONSTONEINGlobal_OS1.0.22.0.UMPINXM_eba72fe141_14.0.zip
+
 https://github.com/gawasvedraj/Action-Recovery-Builder/releases/tag/20209196347
