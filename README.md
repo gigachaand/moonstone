@@ -1,6 +1,8 @@
 # moonstone
 moonstone (IN) boot,twrp, etc stuff
 
+https://t.me/moonstone_sunstone
+
 https://mirom.ezbox.idv.tw/en/phone/moonstone/roms-in-stable/
 
 https://fcetool.github.io/
