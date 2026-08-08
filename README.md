@@ -21,6 +21,4 @@ https://bigota.d.miui.com/OS1.0.22.0.UMPINXM/miui_MOONSTONEINGlobal_OS1.0.22.0.U
 
 https://github.com/gawasvedraj/Action-Recovery-Builder/releases/tag/20209196347
 
-https://t.me/singkolab/139
-
 https://t.me/mechatronx5/17
